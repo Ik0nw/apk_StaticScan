@@ -1,6 +1,6 @@
 # APK Static Scan
 
-This repository contains Python scripts for static analysis of Android APK files to detect potential security issues, focusing on HTTP connections and related sensitive data handling.
+This repository contains Python scripts for static analysis of Android APK files to detect potential sensitive information leakage
 
 ## Usage
 
