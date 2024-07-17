@@ -6,7 +6,7 @@ This repository contains Python scripts for static analysis of Android APK files
 
 ### full_static_scan.py
 
-This script decompiles APK files and scans the decompiled Java source code for potential security issues.
+This script decompiles APK files and scans the decompiled Java source code for analysis
 
 1. Place all APK files you want to analyze in a target directory.
 2. Set a directory to store the findings text files.
